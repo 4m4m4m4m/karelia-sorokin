@@ -1,21 +1,3 @@
-body {
-    background-color: skyblue;
-
-}
-a:link {
-    color: blueviolet;
-}
-a:hover {
-    color: brown;
-}
-h1 {
-    background-image: url("geometka.png");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: 440px;
-    text-decoration: underline;
-    font: optional;color: rgba(235, 218, 173, 0.836);
-}
 p {
     text-align: justify;
 }
